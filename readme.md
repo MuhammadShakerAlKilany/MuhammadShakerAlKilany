@@ -10,9 +10,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
 </p> 
 
-- 🏢 I'm a serverSide Developer useing Nodejs
-- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 experience with HTML, CSS, Java Script , Node JS , mysql ,and MongoDB , or anything related to web development.
+- 🏢 I'm a serverSide Developer with Nodejs , Laravel and Asp.net ; 
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills ;
+- 💬 experience with  Node , JS , Laravel , php , Asp.net , C# , Mysql , Postgres ,and MongoDB , or anything related to ServerSide Dev;
 
 
 ### 🛠 &nbsp;Tech Stack
